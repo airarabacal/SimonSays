@@ -1,0 +1,16 @@
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\anrbox.js
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\E.mp3
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\index.html
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\p5.js
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\p5.sound.js
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\p5.sound.min.js
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\particle.js
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\sketch.js
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\sources\C.mp3
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\sources\D.mp3
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\sources\E.mp3
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\sources\G.mp3
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\SimonSays.dll
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\SimonSays.runtimeconfig.json
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\SimonSays.pdb
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\PubTmp\Out\SimonSays.deps.json

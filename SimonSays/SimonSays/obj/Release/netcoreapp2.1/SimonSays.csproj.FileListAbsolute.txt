@@ -1,0 +1,15 @@
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\bin\Release\netcoreapp2.1\SimonSays.deps.json
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\bin\Release\netcoreapp2.1\SimonSays.runtimeconfig.json
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\bin\Release\netcoreapp2.1\SimonSays.runtimeconfig.dev.json
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\bin\Release\netcoreapp2.1\SimonSays.dll
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\bin\Release\netcoreapp2.1\SimonSays.pdb
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.csprojAssemblyReference.cache
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.AssemblyInfoInputs.cache
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.AssemblyInfo.cs
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.csproj.CoreCompileInputs.cache
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.RazorAssemblyInfo.cache
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.RazorAssemblyInfo.cs
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.RazorTargetAssemblyInfo.cache
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.dll
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.pdb
+C:\Users\Aira\Documents\ASP.Net projects\SimonSays\SimonSays\SimonSays\obj\Release\netcoreapp2.1\SimonSays.genruntimeconfig.cache
